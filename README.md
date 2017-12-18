@@ -1,1 +1,1 @@
-# LearnWPCode
+# Learn WP Theme Development
